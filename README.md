@@ -2,7 +2,7 @@
 
 ## 소통하는 디자이너 조혜진입니다 🙌
 > 끊임없이 소통하며 최선의 결과물을 만들어내기 위해 노력하는 디자이너가 되겠습니다<br> 
-UIUXDesigner :: [2023 PORTFOLIO](https://heyhyejin.github.io/portfolio/)
+UIUXDesigner :: [2023 PORTFOLIO](https://heyhyejin.github.io/portfolio_2023/)
 
 <br>
   
